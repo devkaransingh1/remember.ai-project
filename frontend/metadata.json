@@ -1,0 +1,8 @@
+{
+  "name": "Remember AI — Cinematic AI Memory Assistant",
+  "description": "A dark, cinematic landing page for Remember AI, a personal AI memory layer that saves, recalls, and manages personal memories using natural language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
